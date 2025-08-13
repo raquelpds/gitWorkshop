@@ -21,6 +21,7 @@ struct ContentView: View {
     }
 }
 
+//madagascar é um ótimo filme ok?
 #Preview {
     ContentView()
 }
